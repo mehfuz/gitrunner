@@ -14,7 +14,7 @@ Sample output is as follows,
 
 
 To: admin_devops@gmail.com
-From: mehfi.khan@gmail.com
+From: sender@gmail.com
 Subject: Summary Report of last weeks github PRs for repo  home-assistant/developers.home-assistant
  The summary table is as follows
 --------------------------------------
