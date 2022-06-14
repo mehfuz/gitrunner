@@ -17,12 +17,17 @@ To: admin_devops@gmail.com
 From: sender@gmail.com
 Subject: Summary Report of last weeks github PRs for repo  home-assistant/developers.home-assistant
  The summary table is as follows
+ 
 --------------------------------------
 |   State of PR    |       Count      |
 --------------------------------------
 | closed    |       12         |
+
 | total    |       16         |
+
 | merged    |       11         |
+
 | open    |       4         |
+
 ------------------------------------------------------------------------
 
