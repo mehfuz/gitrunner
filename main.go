@@ -13,7 +13,7 @@ const (
 )
 
 func main() {
-	fmt.Print("git Runner started")
+	fmt.Println("git Runner started")
 	if err := Runner(); err != nil {
 		log.Panic(err.Error())
 	}
